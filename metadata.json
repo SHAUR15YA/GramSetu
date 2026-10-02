@@ -1,0 +1,6 @@
+{
+  "name": "GramSetu AI",
+  "description": "An AI-powered multilingual platform empowering rural communities with agriculture diagnostics, healthcare triage, educational tutoring, government welfare services, and environmental monitoring.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
